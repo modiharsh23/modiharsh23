@@ -27,6 +27,7 @@ Relevant Coursework : *Data Structure, Algorithms, DBMS, Mobile and Web Developm
 ### 🧠 Technical Skills
 
 - **Languages & Frameworks**: <br>
+
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"/>
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -64,6 +65,7 @@ Relevant Coursework : *Data Structure, Algorithms, DBMS, Mobile and Web Developm
 
 
 - **Databases**: <br>
+
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nosql-29B5E8?style=for-the-badge&logo=&logoColor=white"/>
