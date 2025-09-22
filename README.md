@@ -112,7 +112,7 @@ Relevant Coursework : *Data Structure, Algorithms, DBMS, Mobile and Web Developm
   <a href="mailto:harshmodi1369@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="[https://in.linkedin.com/in/harsh-modi-85b32523b]">
+  <a href="https://in.linkedin.com/in/harsh-modi-85b32523b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="[YOUR PORTFOLIO URL HERE]">
