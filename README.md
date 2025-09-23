@@ -115,7 +115,7 @@ Relevant Coursework : *Data Structure, Algorithms, DBMS, Mobile and Web Developm
   <a href="https://in.linkedin.com/in/harsh-modi-85b32523b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="[YOUR PORTFOLIO URL HERE]">
+  <a href="https://modiharsh23.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
 </p>
