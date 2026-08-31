@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Harsh Modi! 👨‍💻</h1>
 <p align="center">
-  <b>CS Grad @ ASU | Data Science & ML Enthusiast | Python Developer</b>
+  <b>AI Engineer & CS Grad @ ASU | Data Science & ML Enthusiast | Python Developer</b>
 </p>
 
 ---
