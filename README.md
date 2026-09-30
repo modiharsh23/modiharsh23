@@ -1,121 +1,135 @@
-<h1 align="center">Hi, I'm Harsh Modi! 👨‍💻</h1>
+<h1 align="center">Hi, I'm Harsh Modi 👋</h1>
+
 <p align="center">
-  <b>AI Engineer & CS Grad @ ASU | Data Science & ML Enthusiast | Python Developer</b>
+  <b>AI Engineer @ Arizona State University · MS Computer Science · RAG, LLM agents & distributed systems</b>
+</p>
+
+<p align="center">
+  <a href="mailto:harshmodi1369@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/modiharshh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://modiharsh23.github.io/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=about.me&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🌱 About Me
+## 🚀 About Me
 
-I am a passionate and driven Computer Science graduate student at Arizona State University with a strong foundation in machine learning, data science, and software development. With hands-on internship experience in developing and deploying ML models, automating business reporting, and optimizing data workflows, I enjoy building impactful solutions that solve real-world problems.
+I build production AI systems: RAG pipelines, LLM agents and the backend infrastructure behind them. At ASU I ship chatbots used by **20K+ people** across the university's web properties. Before that I built real-time, event-driven data pipelines handling 1,000+ events per second.
 
----
-
-### 🎓 Education
-
-**Arizona State University** | Tempe, AZ<br>
-Master's in Computer Science : *Aug 2025 – May 2027* <br>
-Relevant Coursework : *Statistical Machine Learning, Distributed Database Systems*
-
-**Indus University** | Ahmedabad, GJ <br>
-Bachelor's in Computer Engineering : *Aug 2021 – Jun 2025* <br>
-GPA : *3.58/4.00* <br> 
-Relevant Coursework : *Data Structure, Algorithms, DBMS, Mobile and Web Development, Data Science*
+Currently pursuing an **MS in Computer Science at ASU** (May 2027) and looking for full-time roles starting in 2027.
 
 ---
 
-### 🧠 Technical Skills
+## 📊 Impact at a Glance
 
-- **Languages & Frameworks**: <br>
-
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-    <img src="https://img.shields.io/badge/node-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Flask-3BABC3?style=for-the-badge&logo=flask&logoColor=white"/>
-
-
-
-- **Data Science, ML & Data Engineering**: <br>
-
-    <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-    <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-    <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-    <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Matplotlib-7A76FF?style=for-the-badge&logo=&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Seaborn-ECD53F?style=for-the-badge&logo=&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Data Anlysis-3B66BC?style=for-the-badge&logo=&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Machine Learning-FF4C00?style=for-the-badge&logo=&logoColor=white"/>
-    <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-    <img src="https://img.shields.io/badge/deepl-0F2B46?style=for-the-badge&logo=deepl&logoColor=white"/>
-    <img src="https://img.shields.io/badge/NLP-E6502A?style=for-the-badge&logo=&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Feature Engineering-00AB44?style=for-the-badge&logo=&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Data Science-FD3456?style=for-the-badge&logo=&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Statistical technique-6D28D9?style=for-the-badge&logo=&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Data Wrangling-4EA4DD?style=for-the-badge&logo=&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Data Modeling-006272?style=for-the-badge&logo=&logoColor=white"/>
-
-
-
-- **Databases**: <br>
-
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nosql-29B5E8?style=for-the-badge&logo=&logoColor=white"/>
-  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-
-
-- **Tools & Platforms**: <br>
-
-    <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/VScode-5395FD?style=for-the-badge&logo=&logoColor=white"/>
-    <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-    <img src="https://img.shields.io/badge/restapi-EC1C24?style=for-the-badge&logo=&logoColor=white"/>
-    <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
-    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Deployment-00465B?style=for-the-badge&logo=&logoColor=white"/>
-    <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-    <img src="https://img.shields.io/badge/aws-F2BB13?style=for-the-badge&logo=&logoColor=white"/>
-    <img src="https://img.shields.io/badge/azure-004088?style=for-the-badge&logo=&logoColor=white"/>
-    <img src="https://img.shields.io/badge/powerbi-FE5F50?style=for-the-badge&logo=&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Excel-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
-
-
+| | |
+|---|---|
+| 👥 **20K+** | users served by ASU AI agents and chatbots |
+| 💬 **10K+** | queries per month at ~3 s p95 latency |
+| 🎯 **60% → 95%** | answer accuracy after guardrails and eval tuning |
+| ✂️ **90%** | fewer irrelevant LLM API calls |
+| ⚡ **1,000+ events/s** | sustained in real-time Kafka pipelines |
+| 🗄️ **70%** | PostgreSQL query latency reduction |
 
 ---
 
-### 🏆 Certifications
+## 💼 Experience
 
-**Databases and SQL for Data Science with Python** - IBM <br>
-    *Issued Aug 2025* <br>
-    [Link to Certificate](https://www.coursera.org/account/accomplishments/verify/FSJDZ2XTZ1OX)
+**AI Engineer (Student Worker)** · Arizona State University · *May 2026 – Present*
+- Built and deployed AI agents and chatbots on ASU websites (desktop and mobile).
+- Developed FastAPI services on AWS for RAG pipelines and LLM agents, with pgvector semantic retrieval.
+- Implemented LLM guardrails, safety prompts and validation logic; grew the internal eval set.
+- Own production releases, endpoints, DNS routing and Drupal CMS integration.
 
-**[Certification Name]** - [Issuing Organization]
-    *Issued [Month Year]*
-    [Link to Credential]
+**Software Developer Intern** · Fully Automation Consultancy · *Jan 2025 – Jun 2025*
+- Built Python microservices, REST APIs and Kafka pipelines on AWS.
+- Cut PostgreSQL latency 70% and raised throughput 50% with indexing, Redis caching and query rewrites.
+- Built fault-tolerant pipelines with retries, dead-letter queues and CloudWatch alerting (40% fewer failures).
 
 ---
 
-### 📫 Contact Me
+## 🛠️ Featured Projects
 
-<p>
-  <a href="mailto:harshmodi1369@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://in.linkedin.com/in/harsh-modi-85b32523b">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://modiharsh23.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=About.me&logoColor=white"/>
-  </a>
+### 💧 REALwaterBot: full-stack RAG chatbot
+`FastAPI` `React` `TypeScript` `PostgreSQL` `pgvector` `Docker` `Railway`
+- Domain-specific Q&A over **31,000+ embedded chunks** with a provider-agnostic LLM adapter layer.
+- Modular services for session memory, source citation and verification, response rating, translation and content safety.
+- Embeddable JS widget for CMS platforms (e.g. Drupal) and an idempotent ingestion pipeline for non-technical KB updates.
+
+### 🚚 GeoTrack: distributed logistics engine
+`FastAPI` `CockroachDB` `Kafka` `Prometheus`
+- Fault-tolerant multi-region backend using Raft-based replication and regional data partitioning.
+- Processed **12M+ events (40k/min)** with strong consistency and zero consumer lag.
+- Dead-letter queues, retries and offset tracking, monitored with Prometheus.
+
+### 🤖 Federated Learning on AWS edge
+`AWS IoT Greengrass` `ECS` `Lambda` `S3` `MQTT`
+- Trained across Raspberry Pi edge devices and 10 ECS instances over five rounds.
+- Distributed training and aggregation pipeline finishing in **under 60 seconds** at **97%+ accuracy** on MNIST.
+
+---
+
+## 🧠 Tech Stack
+
+**LLM & AI**
+
+![RAG](https://img.shields.io/badge/RAG-6D28D9?style=flat-square)
+![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-FF4C00?style=flat-square)
+![Guardrails](https://img.shields.io/badge/LLM_Guardrails-E6502A?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**Backend & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![CockroachDB](https://img.shields.io/badge/CockroachDB-6933FF?style=flat-square&logo=cockroachlabs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Languages & Frontend**
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=flat-square&logo=drupal&logoColor=white)
+
+---
+
+## 🎓 Education & Certifications
+
+- **Arizona State University**, MS Computer Science (Aug 2025 – May 2027)
+  *Statistical Machine Learning · Statistical Learning Theory · Data Mining · Distributed Database Systems · Cloud Computing*
+- **Indus University**, B.Tech Computer Engineering (2021 – 2025), GPA 3.53/4.00
+- **IBM**, [Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/verify/FSJDZ2XTZ1OX) (Aug 2025)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=modiharsh23&show_icons=true&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=modiharsh23&layout=compact&hide_border=true" />
 </p>
+
+---
+
+<p align="center"><i>Open to full-time AI / ML / backend engineering roles starting 2027. Let's talk! 📫</i></p>
